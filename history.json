@@ -1,0 +1,927 @@
+{
+  "title": "The history of the touchscreen",
+  "tagline": "From wires beside a radar tube in 1965 to glass that reads ten fingers in your pocket.",
+  "intro": "The first touch screens were built by radar and accelerator engineers who needed a faster way to point at a display. For decades they stayed in labs, control rooms and classrooms, and most could only find one finger. The big changes were a transparent grid that could read many fingers at once, and glass tough enough to cover it. Several firsts are still argued over, and this history says so where they are.",
+  "eras": [
+    {
+      "id": "lab",
+      "name": "Touch in the lab",
+      "from": 1962,
+      "to": 1983,
+      "color": "#c49bff",
+      "summary": "Engineers in England, Denmark, Switzerland and the US try capacitance, resistance and infrared beams. Each solves one problem: control rooms, classrooms, or a pen on a pad."
+    },
+    {
+      "id": "desk",
+      "name": "Touch reaches desks and pockets",
+      "from": 1983,
+      "to": 1999,
+      "color": "#ffb547",
+      "summary": "Touch goes on sale in office computers, touchpads, and the first stylus phone and handheld. It is mostly single-point and often needs a pen."
+    },
+    {
+      "id": "many",
+      "name": "Many fingers at once",
+      "from": 1982,
+      "to": 2007,
+      "color": "#5ce1a9",
+      "summary": "Researchers learn to read several touches at the same time, and where each one is. This idea is later bought up and built into phones."
+    },
+    {
+      "id": "phone",
+      "name": "The glass era",
+      "from": 2004,
+      "to": 2019,
+      "color": "#8ef0ff",
+      "summary": "Capacitive glass screens arrive in phones in 2007, covered by toughened glass. Smartphones go from millions to over a billion a year. Screens then start to sense how hard you press."
+    }
+  ],
+  "events": [
+    {
+      "year": 1962,
+      "date": "c. 1960–1962",
+      "era": "lab",
+      "art": "flask",
+      "title": "Corning develops the glass that will cover phones",
+      "who": "Corning researchers; Steven Kistler is credited by Wikipedia",
+      "where": "New York, USA",
+      "country": "United States",
+      "text": "In the 1960s Corning researchers worked out chemical strengthening, in which small ions in the glass surface are swapped for larger ones. Wikipedia dates the \"Project Muscle\" effort to 1960 and credits Steven Kistler with the 1962 treatment. The product, Chemcor, went into cars, aircraft and phone booths, not phones.",
+      "why": "The same trick, revived in 2005, became the tough cover on touchscreens.",
+      "box": "stack",
+      "sources": [
+        27,
+        7
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "1965",
+      "era": "lab",
+      "art": "crt",
+      "key": true,
+      "title": "A radar engineer describes a finger-driven screen",
+      "who": "Eric A. Johnson",
+      "where": "Malvern, England",
+      "country": "United Kingdom",
+      "text": "Eric A. Johnson of the Royal Radar Establishment described a touch display in a short note in Electronics Letters, dated October 1965. Thin wires across a computer screen sensed a finger, so an operator could pick items by touch. A fuller paper appeared in the journal Ergonomics in March 1967.",
+      "why": "He is widely credited with the first finger-driven touchscreen.",
+      "box": "sense",
+      "sources": [
+        26,
+        13,
+        0
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "2 December 1969",
+      "era": "lab",
+      "art": "crt",
+      "title": "Johnson's \"Touch displays\" patent is granted",
+      "who": "Eric Arthur Johnson",
+      "where": "United Kingdom",
+      "country": "United Kingdom",
+      "text": "US patent 3,482,241 was filed in August 1966 and granted in December 1969. It puts touch-sensitive contacts beside the screen of a cathode ray tube. The system can sense either a change in resistance or a change in capacitance at the touched contact.",
+      "why": "The patent gives Johnson's full name and shows that both main ways of sensing touch were in play from the start.",
+      "box": "sense",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1971",
+      "era": "lab",
+      "art": "coil",
+      "title": "Elographics is founded",
+      "who": "George Samuel Hurst",
+      "where": "Oak Ridge / Knoxville, Tennessee, USA",
+      "country": "United States",
+      "text": "Hurst was a physicist who worked at Oak Ridge National Laboratory and later taught at the University of Kentucky. Oak Ridge reports that he started Elographics in 1971 to turn a way of digitising chart traces into a resistive touchscreen business.",
+      "why": "It became one of the best-known makers of resistive touch screens.",
+      "box": "resistive",
+      "sources": [
+        33,
+        19
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "11 March 1972",
+      "era": "lab",
+      "art": "word",
+      "title": "A handwritten note proposes a capacitive touch screen",
+      "who": "Bent Stumpe",
+      "where": "CERN, Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "CERN was planning the Super Proton Synchrotron, a ring nearly 7 km around. It was too big to wire every control to one room. Danish engineer Stumpe wrote a note proposing a screen with programmable buttons that you touch.",
+      "why": "One screen with changing labels could replace a wall of fixed switches.",
+      "box": "sense",
+      "sources": [
+        1,
+        11
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "filed 28 February 1972, granted 27 November 1973",
+      "era": "lab",
+      "art": "window",
+      "key": true,
+      "title": "Infrared beams for the PLATO classroom terminal",
+      "who": "Frederick Ebeling, Roger Johnson and Richard Goldhor",
+      "where": "University of Illinois, Urbana, USA",
+      "country": "United States",
+      "text": "The Illinois patent describes infrared sources and detectors along two edges of a display. Together they make a grid of crossed light beams. When a finger blocks a beam, the computer gets that beam's address. The patent divides the display into 16 by 16 areas, for a teaching system with a plasma display like the one in PLATO IV.",
+      "why": "Thousands of students used touch in lessons long before phones.",
+      "box": "other",
+      "sources": [
+        3,
+        9
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "May 1973",
+      "era": "lab",
+      "art": "chip",
+      "key": true,
+      "title": "CERN builds the first working touch capacitor",
+      "who": "Frank Beck, Bent Stumpe and Chick Nichols",
+      "where": "CERN, Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "Beck and Stumpe wrote a CERN report on a touch screen and a computer-controlled knob. In 1973 Chick Nichols made the first working capacitor by depositing a thin metal layer on flexible Mylar. A finger raised a button's capacitance by about 10 percent, from roughly 200 pF.",
+      "why": "It showed that a finger could be sensed by the charge it changes, with nothing to press.",
+      "box": "sense",
+      "sources": [
+        1,
+        11
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "filed 18 March 1974, granted 7 October 1975",
+      "era": "lab",
+      "art": "calculator",
+      "key": true,
+      "title": "A resistive sensor that ignores the writer's hand",
+      "who": "George S. Hurst and William C. Colwell Jr.",
+      "where": "Oak Ridge, Tennessee, USA",
+      "country": "United States",
+      "text": "US patent 3,911,215 is for a \"Discriminating contact sensor\", assigned to Elographics. Two charged sheets are kept apart by small insulating buttons. A sharply curved object, such as a pen tip, presses them together, but a resting hand does not.",
+      "why": "It is an early solution to the palm problem that still matters today.",
+      "box": "resistive",
+      "sources": [
+        2,
+        33
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "lab",
+      "art": "building",
+      "title": "The SPS control room runs on touch screens",
+      "who": "CERN operators",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "When the SPS started up in 1976, its control room was fully equipped with touch screens. Fine copper lines about 80 micrometres wide were etched on glass, so they were almost invisible. The Courier article describes this as apparently the first use of capacitive touch screens anywhere.",
+      "why": "Touch proved itself in real daily work, not just in a demo.",
+      "box": "sense",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1980",
+      "era": "lab",
+      "art": "computer",
+      "title": "A Danish firm sells the \"Touch Terminal\"",
+      "who": "NESELCO, with CERN's design",
+      "where": "Denmark",
+      "country": "Denmark",
+      "text": "NESELCO sold the Touch Terminal, which the CERN Courier describes as the world's first commercial touch-screen computer. CERN's own involvement ended after Stumpe declined to sign a non-disclosure agreement, because CERN required inventions to be published.",
+      "why": "Touch left the lab as a product, though a niche one.",
+      "box": "sense",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982",
+      "era": "lab",
+      "art": "window",
+      "title": "A resistive touch screen is shown at the Knoxville World's Fair",
+      "who": "George S. Hurst and Elographics",
+      "where": "Knoxville, Tennessee, USA",
+      "country": "United States",
+      "text": "Oak Ridge National Laboratory says Hurst showed his resistive touchscreen at the 1982 World's Fair in Knoxville. It used two conductive layers to find a touch on both the X and Y axes.",
+      "why": "A see-through resistive layer could sit on top of almost any display.",
+      "box": "resistive",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982",
+      "era": "many",
+      "art": "pixels",
+      "key": true,
+      "title": "A camera behind frosted glass sees many fingers",
+      "who": "Nimish Mehta, supervised by K. C. Smith",
+      "where": "University of Toronto, Canada",
+      "country": "Canada",
+      "text": "Mehta's master's thesis, \"A Flexible Machine Interface\", used a frosted glass panel watched by a camera. Finger pressure made dark spots, so several touches could draw at once. Bill Buxton calls it the first multi-touch system he knows of that was designed for human input.",
+      "why": "Reading many fingers at once, not just one, is the core of modern touch.",
+      "box": "locate",
+      "sources": [
+        4,
+        35,
+        14
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "autumn 1983 (Comdex, 28 November, per Wikipedia)",
+      "era": "desk",
+      "art": "computer",
+      "key": true,
+      "title": "HP-150: a touchscreen office computer",
+      "who": "Hewlett-Packard",
+      "where": "USA (Las Vegas Comdex, per Wikipedia)",
+      "country": "United States",
+      "text": "The HP-150 came out in autumn 1983 with a 9-inch screen ringed by infrared emitters and detectors. Wikipedia lists a coarse 40 by 24 grid, and the HP Computer Museum gives the original price as $2,795. Dust could clog the bottom sensor holes until they were cleaned.",
+      "why": "It is one of the earliest touchscreen computers sold to the public, and it shows how fragile beam sensors were.",
+      "box": "other",
+      "sources": [
+        28,
+        29,
+        8
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "1983",
+      "era": "many",
+      "art": "person",
+      "title": "VIDEOPLACE reads hands with a camera",
+      "who": "Myron Krueger",
+      "where": "USA",
+      "country": "United States",
+      "text": "Krueger's VIDEOPLACE tracked fingers, hands and whole people by vision. It did not sense touch itself. Later gestures such as pinch-to-zoom are said to have been influenced by it.",
+      "why": "It gave designers a picture of how two-handed gestures could feel.",
+      "box": "locate",
+      "sources": [
+        4,
+        14
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "c. 1984",
+      "era": "many",
+      "art": "pixels",
+      "title": "Bell Labs overlays a capacitive multi-touch screen on a CRT",
+      "who": "Bob Boie",
+      "where": "Bell Labs, USA",
+      "country": "United States",
+      "text": "Buxton lists Boie's transparent capacitive screen over a CRT as the first multi-touch screen he is aware of. He saw it only after his 1985 talk, so the date rests on his account. A Carnegie Mellon prototype of the same period used light instead.",
+      "why": "It joined the two key ideas: a see-through grid and many fingers.",
+      "box": "sense",
+      "sources": [
+        4,
+        14
+      ]
+    },
+    {
+      "year": 1985,
+      "date": "1985",
+      "era": "many",
+      "art": "coil",
+      "key": true,
+      "title": "A Toronto tablet reports every finger and how hard it presses",
+      "who": "SK Lee, Bill Buxton and K. C. Smith",
+      "where": "University of Toronto, Canada",
+      "country": "Canada",
+      "text": "The Toronto group's tablet used capacitance and reported the location and degree of touch for each contact. It was presented at Graphics Interface in May 1985. Around then Carnegie Mellon's Sensor Frame, by Paul McAvinney, could sense up to three fingers.",
+      "why": "Each touch point was tracked on its own, the basis of multitouch tracking in phones.",
+      "box": "locate",
+      "sources": [
+        34,
+        4,
+        14
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "c. 1992",
+      "era": "desk",
+      "art": "calculator",
+      "title": "Synaptics builds a laptop touchpad",
+      "who": "Synaptics (founded by Federico Faggin and Carver Mead in 1986)",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "Wikipedia credits Synaptics with the first touchpad for laptops in 1992, though company dates vary. It says Twinhead and Epson used the pad by 1994, and Apple followed in 1995.",
+      "why": "Millions learned to move a cursor by sliding a finger on a sensor.",
+      "box": "sense",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "shown November 1992; on sale August 1994",
+      "era": "desk",
+      "art": "phone",
+      "key": true,
+      "title": "IBM Simon: a phone with a touchscreen",
+      "who": "IBM, with Mitsubishi Electric (per Wikipedia)",
+      "where": "Las Vegas and USA",
+      "country": "United States",
+      "text": "IBM showed a prototype at Comdex in November 1992. BellSouth began selling the Simon in August 1994. Its touchscreen replaced buttons for dialling and typing, and a stylus helped. Wikipedia reports about 50,000 sold in roughly six months.",
+      "why": "It is widely called the first touchscreen smartphone, and it needed a pen.",
+      "sources": [
+        30,
+        6
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "1996",
+      "era": "desk",
+      "art": "digital",
+      "title": "The PalmPilot puts a stylus screen in many pockets",
+      "who": "Jeff Hawkins, Donna Dubinsky and Ed Colligan",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "Palm Computing was founded in 1992. Its first Pilot handhelds came out in 1996. Dubinsky, a co-founder and later Palm's chief executive, was part of the team.",
+      "why": "Handhelds made touch a daily habit for business people before smartphones.",
+      "box": "fail",
+      "sources": [
+        17,
+        16
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "1998–1999",
+      "era": "many",
+      "art": "person",
+      "title": "FingerWorks and a PhD on chords of fingers",
+      "who": "Wayne Westerman and John Elias",
+      "where": "University of Delaware, USA",
+      "country": "United States",
+      "text": "Westerman and Elias founded FingerWorks, in 1998 by some accounts and 1999 by others. Westerman developed repetitive strain problems while finishing his Delaware PhD, on handling a multi-touch surface with chords of fingers. The firm sold multi-touch keyboards and pads.",
+      "why": "The company worked out how to tell fingers apart and read gestures.",
+      "box": "locate",
+      "sources": [
+        31,
+        32,
+        4
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "2002",
+      "era": "many",
+      "art": "pixels",
+      "title": "SmartSkin senses hands through capacitance",
+      "who": "Jun Rekimoto",
+      "where": "Sony Computer Science Laboratories, Tokyo, Japan",
+      "country": "Japan",
+      "text": "Rekimoto's SmartSkin is a body-shape sensor based on capacitive sensing. It let several hands and fingers move things on a surface at once. A UIST demonstration paper followed in November 2002.",
+      "why": "It was a clear Japanese contribution to capacitive multi-touch.",
+      "box": "sense",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "filed 6 May 2004, granted 16 February 2010",
+      "era": "phone",
+      "art": "chip",
+      "key": true,
+      "title": "Apple files the \"Multipoint touchscreen\" patent",
+      "who": "Steve Hotelling, Joshua Strickon and Brian Huppi",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "US patent 7,663,607 describes a transparent capacitive-sensing panel that detects several touches at once. It produces a separate signal for each touch.",
+      "why": "It is the patent for the see-through grid that the iPhone used.",
+      "box": "sense",
+      "sources": [
+        12,
+        37
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005",
+      "era": "phone",
+      "art": "word",
+      "key": true,
+      "title": "Apple acquires FingerWorks",
+      "who": "Apple, Wayne Westerman, John Elias",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "In early 2005 Apple took over FingerWorks' patents and intellectual property, along with Elias and Westerman. FingerWorks announced in June 2005 that it was no longer in business.",
+      "why": "A decade of gesture research went into the iPhone.",
+      "box": "locate",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "February 2006",
+      "era": "many",
+      "art": "studio",
+      "title": "Jeff Han shows multi-touch on stage",
+      "who": "Jeff Han",
+      "where": "TED, Monterey, USA",
+      "country": "United States",
+      "text": "Han demonstrated his multi-touch sensing at TED in February 2006. The video went online about six months later and spread widely. He founded Perceptive Pixel, which Microsoft acquired in 2012.",
+      "why": "It showed the public what many fingers on a screen could do.",
+      "box": "locate",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "announced December 2006; on sale c. March 2007",
+      "era": "phone",
+      "art": "phone",
+      "title": "LG Prada: a capacitive phone before the iPhone",
+      "who": "LG Electronics",
+      "where": "South Korea",
+      "country": "South Korea",
+      "text": "LG announced the Prada phone in December 2006. It had a capacitive touchscreen that needed no stylus. Wikipedia reports it first sold in parts of Europe in March 2007, and about one million sold in its first 18 months.",
+      "why": "It was announced shortly before the iPhone, so the idea was in the air.",
+      "box": "sense",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "9 January 2007",
+      "era": "phone",
+      "art": "phone",
+      "key": true,
+      "title": "Apple unveils the iPhone",
+      "who": "Steve Jobs and Apple",
+      "where": "San Francisco, USA (Macworld)",
+      "country": "United States",
+      "text": "At Macworld Steve Jobs pitched fingers as the best pointing device and the iPhone as the biggest change in interfaces since the mouse. The screen was 3.5 inches. It went on sale in the US on 29 June 2007 at $499 and $599.",
+      "why": "Multi-touch capacitive glass became the way most people use a computer.",
+      "box": "sense",
+      "sources": [
+        5,
+        36
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "June 2007",
+      "era": "phone",
+      "art": "window",
+      "key": true,
+      "title": "Gorilla Glass covers the iPhone",
+      "who": "Corning and Apple",
+      "where": "USA",
+      "country": "United States",
+      "text": "The first iPhone prototype had a plastic screen that scratched. Apple switched to glass about six weeks before release, and Corning supplied it by reviving its strengthened-glass work. The glass was named Gorilla Glass in February 2008, per Wikipedia.",
+      "why": "A thin glass that resists scratches made glass the front of the phone.",
+      "box": "stack",
+      "sources": [
+        27,
+        7,
+        36
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "2007–2008",
+      "era": "many",
+      "art": "studio",
+      "title": "Microsoft's table goes on sale",
+      "who": "Microsoft",
+      "where": "USA",
+      "country": "United States",
+      "text": "Microsoft began developing a tabletop platform in 2001. It later became PixelSense and was first called Surface. Wikipedia gives 29 May 2007 for its commercial start, and TechCrunch reported it reaching AT&T stores on 17 April 2008.",
+      "why": "Multi-user touch tables reached museums and shops.",
+      "box": "locate",
+      "sources": [
+        14,
+        38
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "May 2007",
+      "era": "phone",
+      "art": "bolt",
+      "title": "Touchscreens learn to buzz back",
+      "who": "Alpine Electronics",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Wikipedia's haptics article cites a May 2007 Alpine press release for PulseTouch, a haptic technology on touchscreen car units. This is one early example, not necessarily the first.",
+      "why": "Feedback lets a flat glass screen feel like a button.",
+      "box": "other",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "9 September 2014",
+      "era": "phone",
+      "art": "digital",
+      "title": "Force Touch measures how hard you press",
+      "who": "Apple",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "Apple unveiled Force Touch with the Apple Watch. The iPhone 6s later added a related 3D Touch. On iPhones, sensors detect tiny changes in the distance between the backlight and the cover glass.",
+      "why": "A touch now has a strength as well as a place.",
+      "box": "other",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2019",
+      "era": "phone",
+      "art": "phone",
+      "title": "3D Touch ends; 1.54 billion smartphones a year",
+      "who": "Apple; the phone industry",
+      "where": "Worldwide",
+      "country": "United States",
+      "text": "Apple dropped 3D Touch with the iPhone 11. Haptic Touch replaced it, using a long press with no pressure layer. Wikipedia reports 1.54 billion smartphones shipped in 2019, a record fall. For scale, Gartner counted about 139 million sold in 2008, and IDC about 722 million shipped in 2012.",
+      "why": "Touch glass is now one of the most produced parts in the world.",
+      "box": "other",
+      "sources": [
+        15,
+        24,
+        22,
+        23
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First finger-driven touchscreen (widely credited)",
+      "value": "1965",
+      "who": "Eric A. Johnson, Royal Radar Establishment, England"
+    },
+    {
+      "label": "First working touch capacitor for CERN's controls",
+      "value": "1973",
+      "who": "Chick Nichols, Frank Beck and Bent Stumpe, CERN"
+    },
+    {
+      "label": "Multi-touch designed for human input (Buxton's earliest known)",
+      "value": "1982",
+      "who": "Nimish Mehta, University of Toronto"
+    },
+    {
+      "label": "First commercial touch-screen computer (per CERN Courier)",
+      "value": "1980",
+      "who": "NESELCO, Denmark"
+    },
+    {
+      "label": "First touchscreen smartphone (widely called)",
+      "value": "1994 sale",
+      "who": "IBM Simon, made by Mitsubishi Electric"
+    },
+    {
+      "label": "First capacitive-screen mobile phone (as stated by Wikipedia)",
+      "value": "2007 (sale)",
+      "who": "LG Prada, LG Electronics"
+    }
+  ],
+  "people": [
+    {
+      "name": "Eric A. Johnson",
+      "life": "",
+      "role": "Radar engineer",
+      "from": "England",
+      "note": "Described a finger-driven touch display in 1965 and patented it in 1969."
+    },
+    {
+      "name": "Bent Stumpe",
+      "life": "b. 1938",
+      "role": "Electronic engineer at CERN",
+      "from": "Denmark",
+      "note": "Proposed the capacitive touch screen for CERN's accelerator controls in 1972."
+    },
+    {
+      "name": "Frank Beck",
+      "life": "",
+      "role": "CERN engineer",
+      "from": "CERN",
+      "note": "Co-wrote the 1973 CERN report on the touch screen with Stumpe."
+    },
+    {
+      "name": "George Samuel Hurst",
+      "life": "1927 – 2010",
+      "role": "Physicist and inventor",
+      "from": "United States",
+      "note": "Founded Elographics in 1971 and patented a resistive sensor in 1975."
+    },
+    {
+      "name": "Donna Dubinsky",
+      "life": "b. 1955",
+      "role": "Co-founder of Palm and later its chief executive",
+      "from": "United States",
+      "note": "Helped bring the stylus handheld to millions with the PalmPilot."
+    },
+    {
+      "name": "Jun Rekimoto",
+      "life": "",
+      "role": "Researcher at Sony Computer Science Laboratories",
+      "from": "Japan",
+      "note": "Built SmartSkin, a capacitive sensor for hands, with papers from 2002."
+    },
+    {
+      "name": "Wayne Westerman",
+      "life": "",
+      "role": "Inventor",
+      "from": "United States",
+      "note": "Wrote a PhD on multi-touch finger chords and co-founded FingerWorks."
+    },
+    {
+      "name": "Jeff Han",
+      "life": "b. 1975",
+      "role": "Researcher and founder of Perceptive Pixel",
+      "from": "United States",
+      "note": "His 2006 TED demo made multi-touch widely known."
+    }
+  ],
+  "series": [
+    {
+      "id": "phones",
+      "title": "Smartphones sold worldwide in a year",
+      "unit": "million units",
+      "log": true,
+      "after": "phone",
+      "caption": "Annual sales grew roughly tenfold in about a decade. Sources differ in the last digits.",
+      "points": [
+        {
+          "year": 2008,
+          "value": 139.3,
+          "label": "Gartner: about 139.3 million"
+        },
+        {
+          "year": 2012,
+          "value": 722,
+          "label": "IDC: about 722 million (Wikipedia cites 725 million)"
+        },
+        {
+          "year": 2013,
+          "value": 1000,
+          "label": "Shipments topped 1 billion"
+        },
+        {
+          "year": 2019,
+          "value": 1540,
+          "label": "1.54 billion shipped, a record fall of 3.2%"
+        }
+      ]
+    },
+    {
+      "id": "glass",
+      "title": "Devices using Gorilla Glass",
+      "unit": "million devices",
+      "log": true,
+      "after": "phone",
+      "caption": "Corning-reported counts: 2010 is a handset total for the year, the later two are cumulative. Approximate.",
+      "points": [
+        {
+          "year": 2010,
+          "value": 200,
+          "label": "About 200 million handsets (roughly 20% of the world's handsets)"
+        },
+        {
+          "year": 2012,
+          "value": 1000,
+          "label": "More than one billion mobile devices by October 2012"
+        },
+        {
+          "year": 2017,
+          "value": 5000,
+          "label": "About five billion devices by October 2017"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Some of the first touch screens at CERN ran for about 30 years, until the new CERN Control Centre took over in 2006.",
+    "CERN's role in its own touch screen ended when Stumpe refused to sign a non-disclosure agreement, because CERN needed inventions to be published.",
+    "The HP-150's infrared sensors could be blocked by dust until someone cleaned the holes.",
+    "Gorilla Glass gets its strength from a bath of molten potassium salt at about 400 °C."
+  ],
+  "sources": [
+    {
+      "title": "Touchscreen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Touchscreen"
+    },
+    {
+      "title": "The first capacitative touch screens at CERN",
+      "publisher": "CERN Courier (Bent Stumpe and Christine Sutton, 31 March 2010)",
+      "url": "https://cerncourier.com/a/the-first-capacitative-touch-screens-at-cern/"
+    },
+    {
+      "title": "US 3,911,215 Discriminating contact sensor",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US3911215"
+    },
+    {
+      "title": "US 3,775,560 Infrared light beam x-y position encoder for display devices",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US3775560"
+    },
+    {
+      "title": "Multi-Touch Systems that I Have Known and Loved",
+      "publisher": "Bill Buxton",
+      "url": "https://www.billbuxton.com/multitouchOverview.html"
+    },
+    {
+      "title": "Apple Reinvents the Phone with iPhone",
+      "publisher": "Apple Newsroom, 9 January 2007",
+      "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/"
+    },
+    {
+      "title": "IBM Simon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IBM_Simon"
+    },
+    {
+      "title": "Gorilla Glass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gorilla_Glass"
+    },
+    {
+      "title": "HP-150",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HP-150"
+    },
+    {
+      "title": "PLATO (computer system)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PLATO_(computer_system)"
+    },
+    {
+      "title": "LG Prada",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/LG_Prada"
+    },
+    {
+      "title": "Bent Stumpe",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bent_Stumpe"
+    },
+    {
+      "title": "US 7,663,607 Multipoint touchscreen",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US7663607B2"
+    },
+    {
+      "title": "US 3,482,241 Touch displays",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US3482241A"
+    },
+    {
+      "title": "Multi-touch",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Multi-touch"
+    },
+    {
+      "title": "Force Touch",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Force_Touch"
+    },
+    {
+      "title": "Donna Dubinsky",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donna_Dubinsky"
+    },
+    {
+      "title": "Palm (PDA)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Palm_(PDA)"
+    },
+    {
+      "title": "Synaptics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Synaptics"
+    },
+    {
+      "title": "George Samuel Hurst",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Samuel_Hurst"
+    },
+    {
+      "title": "Jeff Han",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jeff_Han"
+    },
+    {
+      "title": "Interaction system using SmartSkin",
+      "publisher": "Kentaro Fukuchi (personal research page)",
+      "url": "https://fukuchi.org/en/research/smartskin/"
+    },
+    {
+      "title": "Global crisis hits smartphone sales",
+      "publisher": "Phys.org (AFP; Gartner figures), 12 March 2009",
+      "url": "https://phys.org/news/2009-03-global-crisis-smartphone-sales.html"
+    },
+    {
+      "title": "Android Mobile Phones See Triple-Digit Growth",
+      "publisher": "Campus Technology (IDC figures), 19 February 2013",
+      "url": "https://campustechnology.com/articles/2013/02/19/android-mobile-phones-see-triple-digit-growth.aspx"
+    },
+    {
+      "title": "Smartphone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smartphone"
+    },
+    {
+      "title": "Haptic technology",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Haptic_technology"
+    },
+    {
+      "title": "1965 – The Touchscreen",
+      "publisher": "Malvern Radar and Technology History Society (MRATHS)",
+      "url": "http://mraths.org.uk/?page_id=531"
+    },
+    {
+      "title": "Gorilla Glass: the unsung hero of the smartphone",
+      "publisher": "Physics World (IOP Publishing), 29 June 2022",
+      "url": "https://www.physicsworld.com/a/gorilla-glass-the-unsung-hero-of-the-smartphone/"
+    },
+    {
+      "title": "HP-150 Touch Screen",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/collections/catalog/102704225"
+    },
+    {
+      "title": "HP Computer Museum: Business Desktops/Calcs (150 Touchscreen)",
+      "publisher": "HP Computer Museum",
+      "url": "https://www.hpmuseum.net/display_item.php?hw=43"
+    },
+    {
+      "title": "IBM/BellSouth Simon Personal Communicator",
+      "publisher": "Computer History Museum (CHM Revolution)",
+      "url": "https://www.computerhistory.org/revolution/artifact/1733"
+    },
+    {
+      "title": "FingerWorks",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/FingerWorks"
+    },
+    {
+      "title": "Dr. Wayne C. Westerman",
+      "publisher": "Purdue University, Elmore Family School of Electrical and Computer Engineering",
+      "url": "https://engineering.purdue.edu/ECE/Alums/OECE/2010/westerman.html"
+    },
+    {
+      "title": "Prolific patenting: Sam Hurst's legacy of invention at ORNL",
+      "publisher": "Oak Ridge National Laboratory",
+      "url": "https://www.ornl.gov/news/prolific-patenting-sam-hursts-legacy-invention-ornl"
+    },
+    {
+      "title": "A multi-touch three dimensional touch-sensitive tablet (Lee, Buxton, Smith)",
+      "publisher": "Graphics Interface 1985 proceedings (Canadian Human-Computer Communications Society)",
+      "url": "https://graphicsinterface.org/proceedings/gi1985/gi1985-31/"
+    },
+    {
+      "title": "Multi-touch screens",
+      "publisher": "Canadian Innovation Space (Rideau Hall Foundation), 26 March 2017",
+      "url": "https://canadianinnovationspace.ca/multi-touch-screens/"
+    },
+    {
+      "title": "iPhone (1st generation)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)"
+    },
+    {
+      "title": "US 2006/0097991 Multipoint touchscreen (application)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US20060097991A1"
+    },
+    {
+      "title": "Microsoft Surface Coming To AT&T Stores",
+      "publisher": "TechCrunch, 1 April 2008",
+      "url": "https://techcrunch.com/2008/04/01/microsoft-surface-coming-to-att-stores/amp/"
+    }
+  ]
+}

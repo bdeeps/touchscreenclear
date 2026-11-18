@@ -1,0 +1,110 @@
+{
+  "slug": "touchscreenclear",
+  "box": 223,
+  "date": "2026-11-20",
+  "title": "TouchscreenClear",
+  "question": "How does a touchscreen work?",
+  "hook": "A phone screen can't feel pressure. It reads a tiny change in an electric field as your fingertip steals a little of it. Pull the glass apart, scan the grid, merge two fingers into one and watch gloves fail.",
+  "thumbText": "HOW TOUCHSCREENS WORK",
+  "field": "computing",
+  "minutes": 13,
+  "tags": [
+    "touchscreen",
+    "capacitive",
+    "multitouch",
+    "phone",
+    "sensor",
+    "electrodes",
+    "haptics",
+    "resistive",
+    "computing",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A sandwich of glass",
+      "text": "A phone screen is a stack about one to two millimetres thick: strengthened cover glass, a clear adhesive, a touch sensor and the display. The sensor is a grid of transparent electrodes, rows in one layer and columns in the next, made of a clear conductor such as indium tin oxide or a fine metal mesh. On many phones it is built into the display panel itself."
+    },
+    {
+      "title": "Your finger steals a little field",
+      "text": "Every crossing of a row and a column holds a tiny electric field, which is a capacitor. Your body is a conductor, so a fingertip near a crossing takes some of that field. Less signal reaches the column and the reading drops slightly. The glass does not matter, because the field reaches through it. Pressure does not matter either."
+    },
+    {
+      "title": "Scan the grid",
+      "text": "The controller drives one row at a time and reads every column. After the last row it has a heat map of changes from a stored no-touch baseline. Then it starts again, typically 60 to 240 times a second. Mutual capacitance like this is what lets a screen report many touches at once."
+    },
+    {
+      "title": "From a blob to a point",
+      "text": "A fingertip is wider than the electrode spacing, so it makes a blob across several crossings. The chip takes a weighted average of the blob, a centroid, so the answer falls between electrodes. Each separate blob is a separate touch. Very close fingers merge into one blob, and a blob that is too big is a palm, which the phone ignores."
+    },
+    {
+      "title": "Why gloves and wet screens fail",
+      "text": "The sensor needs a conductor close to its field. A wool glove holds the finger too far away, and plastic is not a conductor. Gloves with conductive thread, or a glove mode that raises sensitivity, can help. Water conducts too, so drops can look like touches and a wet film blurs a real one. Controllers filter this, but a wet screen is still the hard case."
+    },
+    {
+      "title": "Older and other ways",
+      "text": "A resistive screen has two flexible resistive layers that touch when you press. A voltage ramp across one layer, read by the other at the contact, gives the position. It works with any object, but needs a press. Infrared frames and surface acoustic waves find touches with blocked light or absorbed ultrasound. Haptics then touch back, with a small actuator that shakes for a moment."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Capacitance",
+      "def": "How much charge a pair of conductors holds for a given voltage. It depends on their shape, distance and what lies between them."
+    },
+    {
+      "term": "Mutual capacitance",
+      "def": "The capacitance between a row electrode and a column electrode. A nearby finger makes it drop."
+    },
+    {
+      "term": "Electrode",
+      "def": "A thin strip of conductor. A touch sensor is a grid of them, rows crossing columns."
+    },
+    {
+      "term": "Transparent conductor",
+      "def": "A material, such as indium tin oxide, that carries current and lets light through."
+    },
+    {
+      "term": "Baseline",
+      "def": "The stored reading for each crossing with nothing touching. The controller reports the change from it."
+    },
+    {
+      "term": "Centroid",
+      "def": "The weighted average position of a blob. It lets a coarse grid report a precise point."
+    },
+    {
+      "term": "Multitouch",
+      "def": "Reporting several touches at once, each with its own position."
+    },
+    {
+      "term": "Palm rejection",
+      "def": "Ignoring blobs that are too large or the wrong shape to be a fingertip."
+    },
+    {
+      "term": "Resistive touchscreen",
+      "def": "A screen with two flexible resistive layers that touch where you press."
+    },
+    {
+      "term": "Haptics",
+      "def": "Feedback you can feel, such as a small vibration when you touch the screen."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "touchscreenclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
